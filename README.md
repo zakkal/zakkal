@@ -1,161 +1,388 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zakkal/zakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,45:0f766e,75:14b8a6,100:5eead4&height=250&section=header&text=ZAKI%20AL%20GHIFARI&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20IoT%20PROGRAMMER&descAlignY=58&descSize=17&descColor=e2e8f0"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Zaki Al Ghifari
+## `BUILDING DIGITAL PRODUCTS & SMART SYSTEMS`
 
-### 💻 Web Developer | ⚡ IoT Programmer
-
-I love building **web applications, IoT systems, and smart technology**.
+Full-Stack Developer focused on **Laravel, PHP, JavaScript, Tailwind CSS**  
+and IoT development using **ESP32, MQTT, RS485 & DMX512**.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakkal)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+<a href="https://github.com/zakkal?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zakkal">
+<img src="https://img.shields.io/badge/GITHUB-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-## 🚀 About Me
-
-- 💻 Interested in **Web Development**
-- ⚡ Working with **IoT & Embedded Systems**
-- 🔧 Building projects with **ESP32 & Arduino**
-- 🌐 Developing applications using **Laravel & PHP**
-- 📡 Exploring **MQTT, sensors, and real-time IoT systems**
-- 💡 Always learning and building new things
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### 🌐 Web Development
+# 👋 HELLO, I'M ZAKI
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,mysql" />
-</p>
+I'm a developer who enjoys turning ideas into **real digital products**.
 
-### ⚡ IoT & Hardware
+My work covers both **software development** and **IoT systems**, from building web applications and REST APIs to developing connected devices with ESP32.
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+I focus on creating systems that are:
 
-**Also working with:**
+**Clean · Reliable · Scalable · Useful**
 
-`ESP32` `MQTT` `DMX512` `RS485` `MAX485` `Firebase`
+</td>
 
-### 🔧 Tools
+<td width="40%" align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### ⚡ QUICK INFO
 
----
+💻 **Developer**  
+Full-Stack
 
-## 📌 Featured Projects
+🌐 **Web**  
+Laravel & PHP
 
-### 💧 Dancing Fountain IoT
+📡 **IoT**  
+ESP32 & MQTT
 
-IoT-based control system for a **dancing fountain**, integrating:
+🗄️ **Database**  
+MySQL & Firebase
 
-- ESP32
-- MQTT
-- DMX512
-- RS485
-- LED Lighting
-- Real-time control
+🎨 **UI**  
+Tailwind CSS
 
----
-
-### 📚 Library Management System
-
-Web-based library management system built with:
-
-- Laravel
-- Livewire
-- MySQL
-- Tailwind CSS
-
-Features include:
-
-- 👨‍💼 Admin dashboard
-- 👤 Member management
-- 📚 Book management
-- 📖 Borrowing system
-- ↩️ Return system
+</td>
+</tr>
+</table>
 
 ---
-
-### 🌡️ IoT Sensor Monitoring
-
-Real-time sensor monitoring system using:
-
-- ESP32
-- DHT22
-- pH Sensor
-- TDS Sensor
-- Turbidity Sensor
-- Firebase
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakkal&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkal&layout=compact&theme=tokyonight&hide_border=true" height="170">
+# 🚀 WHAT I DO
 
 </div>
 
----
+<table width="100%">
+<tr>
 
-## 🔥 Contribution Streak
+<td align="center" width="33%">
+
+### 💻
+
+## WEB DEVELOPMENT
+
+Modern web applications with
+
+`Laravel`  
+`PHP`  
+`Livewire`  
+`JavaScript`  
+`Tailwind CSS`
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡
+
+## IoT DEVELOPMENT
+
+Connected systems using
+
+`ESP32`  
+`Arduino`  
+`MQTT`  
+`Firebase`  
+`Sensors`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔧
+
+## SYSTEM DEVELOPMENT
+
+Backend & communication
+
+`REST API`  
+`MySQL`  
+`RS485`  
+`DMX512`  
+`MAX485`
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zakkal&theme=tokyonight&hide_border=true">
+# 🛠️ TECHNOLOGY STACK
+
+### WEB & BACKEND
+
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,mysql"/>
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<br><br>
+
+### IoT
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+<br>
+
+`ESP32` `MQTT` `RS485` `MAX485` `DMX512` `Firebase`
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+# 💼 FEATURED PROJECTS
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 💧 Dancing Fountain IoT
+
+IoT system for controlling **Dancing Fountain** equipment and lighting.
+
+### Technology
+
+`ESP32`  
+`MQTT`  
+`RS485`  
+`DMX512`
+
+### Focus
+
+> Real-time communication  
+> Lighting control  
+> IoT automation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management
+
+Web application for managing books, members and borrowing systems.
+
+### Technology
+
+`Laravel`  
+`Livewire`  
+`MySQL`  
+`Tailwind CSS`
+
+### Focus
+
+> Dashboard  
+> Authentication  
+> CRUD  
+> Database Management
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌡️ IoT Sensor Monitoring
+
+Real-time monitoring system using ESP32 and multiple sensors.
+
+### Technology
+
+`ESP32`  
+`Firebase`  
+`DHT22`  
+`pH`  
+`TDS`  
+`Turbidity`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Full-Stack Applications
+
+Building web applications with modern backend architecture and responsive interfaces.
+
+### Technology
+
+`Laravel`  
+`PHP`  
+`JavaScript`  
+`MySQL`  
+`Tailwind CSS`
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakkal&theme=tokyo-night&hide_border=true">
+# ⚡ CURRENTLY WORKING ON
+
+### Dancing Fountain IoT
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+**ESP32**
+
+↓
+
+**RS485 / MAX485**
+
+↓
+
+**DMX512**
+
+↓
+
+**Lighting System**
+
+</td>
+
+<td align="center">
+
+**ESP32**
+
+↓
+
+**MQTT**
+
+↓
+
+**Real-Time Communication**
+
+↓
+
+**Control System**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zakkal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkal&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=zakkal&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
+# 🎯 CURRENT FOCUS
 
-```text
-Laravel        ███████████████████░ 90%
-PHP            ███████████████████░ 90%
-MySQL          ██████████████████░░ 85%
-ESP32          █████████████████░░░ 80%
-IoT            ████████████████░░░░ 75%
-MQTT           ███████████████░░░░░ 70%
-DMX512         █████████████░░░░░░░ 65%
-JavaScript     ████████████░░░░░░░░ 60%
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+<tr>
+
+<td align="center">
+
+### 🌐 WEB
+
+Laravel  
+Livewire  
+REST API  
+MySQL  
+Tailwind CSS
+
+</td>
+
+<td align="center">
+
+### ⚡ IoT
+
+ESP32  
+MQTT  
+RS485  
+DMX512  
+Sensors
+
+</td>
+
+<td align="center">
+
+### 🧠 LEARNING
+
+System Architecture  
+Real-Time Systems  
+IoT Integration  
+Modern UI/UX
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🤝 LET'S BUILD SOMETHING
+
+### Have an idea?
+
+**Web Application · IoT System · Automation · Digital Platform**
+
+Let's turn ideas into something real.
+
+<br>
+
+<a href="https://github.com/zakkal">
+<img src="https://img.shields.io/badge/GITHUB-ZAKKAL-0f766e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+`BUILD` &nbsp; `LEARN` &nbsp; `CREATE`
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5eead4,35:14b8a6,70:0f766e,100:334155&height=150&section=footer"/>
+
+</div>
